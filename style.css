@@ -1,0 +1,35 @@
+.text {
+	font-size: 200px;
+	text-align: center;
+	color: #f0f8ff;
+}
+
+.intro {
+	background-color: #ae4caa;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 10px;
+    padding: 40px;
+}
+
+.parag {
+	font-size: 15px;
+	font-family: Helvetica;
+	width: 600px;
+}
+
+button {
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 10px;
+    padding: 40px;
+}
